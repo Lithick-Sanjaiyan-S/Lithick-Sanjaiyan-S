@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🤖+Building+Production-Grade+LLM+Applications;🧠+Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Optimization;🚀+Turning+AI+Research+into+Real-World+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=🤖+Building+Production-Grade+LLM+Applications;🧠+Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Optimization;🚀+Turning+AI+Research+into+Real-World+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,9 +17,6 @@
   </a>&nbsp;
   <a href="https://github.com/Lithick-Sanjaiyan-S">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
@@ -205,7 +202,7 @@ print(me.philosophy())
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lithick-Sanjaiyan-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Lithick-Sanjaiyan-S&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
 </div>
 
 <br/>
@@ -509,15 +506,6 @@ mindmap
 
 <br/><br/>
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>&nbsp;
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Challenges-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<br/><br/>
-
 > 💼 **Open to Junior AI Engineer roles** at AI-first startups. Let's build something impactful together.
 
 </div>
@@ -541,18 +529,3 @@ mindmap
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
-
----
-
-<!-- 
-  ┌─────────────────────────────────────────────────────────────┐
-  │                    CUSTOMIZATION NOTES                      │
-  ├─────────────────────────────────────────────────────────────┤
-  │  1. Replace LeetCode & HackerRank badge URLs with your own  │
-  │  2. Add your Portfolio URL if available                      │
-  │  3. Set up GitHub Actions for the snake contribution graph  │
-  │     → https://github.com/Platane/snk                        │
-  │  4. Update "View Repo" badge links to actual repo URLs      │
-  │  5. Add Medium/Dev.to badge if you write tech articles      │
-  └─────────────────────────────────────────────────────────────┘
--->
